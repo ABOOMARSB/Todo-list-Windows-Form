@@ -1,0 +1,60 @@
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.Properties.Resources.resources
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.MainView.resources
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.GenerateResource.cache
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.AssemblyInfoInputs.cache
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.AssemblyInfo.cs
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.exe
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.dll.config
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.deps.json
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.runtimeconfig.json
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.runtimeconfig.dev.json
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\ref\PraktijkOpdracht.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.pdb
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.View.ToDoView.resources
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.CopyComplete
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\ref\PraktijkOpdracht.dll
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.pdb
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.genruntimeconfig.cache
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.AssemblyReference.cache
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.View.DeleteFrm.resources
+C:\Users\sbeni\source\repos\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.View.UpdateFrm.resources
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.exe
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.dll.config
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.deps.json
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.runtimeconfig.json
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.runtimeconfig.dev.json
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\ref\PraktijkOpdracht.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\PraktijkOpdracht.pdb
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.AssemblyReference.cache
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.Properties.Resources.resources
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.View.DeleteFrm.resources
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.MainView.resources
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.View.ToDoView.resources
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.View.UpdateFrm.resources
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.GenerateResource.cache
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.AssemblyInfoInputs.cache
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.AssemblyInfo.cs
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.csproj.CopyComplete
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\ref\PraktijkOpdracht.dll
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.pdb
+C:\Users\sbeni\OneDrive - Koning Willem I College\Applicaties\C-Sharp\PraktijkTodo\ToDoList\ToDoList\obj\Debug\net5.0-windows\PraktijkOpdracht.genruntimeconfig.cache
